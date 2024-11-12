@@ -4,4 +4,4 @@
 
 [2.Formal Languages and Compiler Design🗂]()
 
-[3.Mobile Applications]()
+[3.Mobile Applications📱](https://github.com/IoanaBotezatu01/Mobile-Applications)
